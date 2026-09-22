@@ -1,0 +1,28 @@
+NORTHSTAR LEARNING - 2026 PROGRAM IMPACT REPORT
+
+About this document
+This fictional report was created as a safe demonstration document for the RAG Document Chatbot project. All organizations, people, programs, and figures below are invented.
+
+Organization overview
+Northstar Learning is a fictional nonprofit education organization that provides online professional-skills courses to adult learners. Its mission is to make practical career education accessible to people changing careers or returning to the workforce.
+
+2026 participation
+Northstar Learning enrolled 4,800 learners during 2026, an increase of 20 percent from 4,000 learners in 2025. Learners participated from 18 states. Sixty-two percent of learners completed at least one full course, compared with 55 percent in the previous year.
+
+Course results
+The Data Fundamentals course enrolled 1,450 learners and recorded a completion rate of 74 percent. The Digital Marketing course enrolled 1,200 learners and recorded a completion rate of 69 percent. The Project Management course enrolled 1,050 learners and recorded a completion rate of 78 percent. The Career Communication course enrolled 1,100 learners and recorded a completion rate of 66 percent.
+
+The Project Management course had the highest completion rate at 78 percent. Learner surveys showed that its weekly practice exercises and short video lessons were especially helpful.
+
+Learner outcomes
+Six months after completing a course, 48 percent of surveyed learners reported receiving a promotion, finding a new job, or taking on expanded responsibilities. Eighty-six percent said they would recommend a Northstar Learning course to another learner. The organization cautions that these outcomes are self-reported and should not be interpreted as proof that a course directly caused an employment change.
+
+Technology and support
+During 2026, Northstar Learning introduced mobile-friendly lessons, automated progress reminders, and evening virtual office hours. Support requests received an initial response in an average of 9 hours, improving from 15 hours in 2025.
+
+Plans for 2027
+Northstar Learning plans to add introductory courses in artificial intelligence and cybersecurity. It will also pilot multilingual captions, expand weekend office hours, and create a mentorship program for 300 learners. The organization aims to increase the overall course completion rate from 62 percent to 68 percent.
+
+Conclusion
+Northstar Learning experienced growth in enrollment, course completion, and learner support during 2026. Its 2027 priorities are new technology-focused courses, improved accessibility, expanded support, and mentorship.
+
